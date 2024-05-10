@@ -8,7 +8,7 @@
 
 <br>
 
-> para rodar: _**streamlit run chat.py**_
+> para rodar: _**streamlit run main.py**_
 
 
 <img src="https://github.com/Sarah781/Chatbot-Alura/blob/main/Robo.png" width=115>
