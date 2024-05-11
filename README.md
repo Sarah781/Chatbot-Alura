@@ -26,8 +26,11 @@ streamlit run chat.py
 ```
 
 # Tecnologias:
-[![](https://img.shields.io/badge/%20-Python-3b7099?style=for-the-badge&logo=python&logoColor=f8d558)](https://www.python.org/) Para a IA e para o Front(biblioteca Streamlit do Python)
+[![](https://img.shields.io/badge/%20-Python-3b7099?style=for-the-badge&logo=python&logoColor=f8d558)](https://www.python.org/) 
+Para a IA e para o Front(biblioteca Streamlit do Python)
 
-<img src="https://github.com/Sarah781/Chatbot-Alura/blob/main/Robo.png" width=115>
-<a href="https://www.linkedin.com/in/sarah-santana-843394200/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<br>
+
+<img src="https://github.com/Sarah781/Chatbot-Alura/blob/main/Robo.png" width=115> , <a href="https://www.linkedin.com/in/sarah-santana-843394200/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
 
