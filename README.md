@@ -8,7 +8,10 @@
 
 <br>
 
-> para rodar: ```sh streamlit run chat.py```
+### para rodar: 
+```sh 
+streamlit run chat.py
+```
 
 
 <img src="https://github.com/Sarah781/Chatbot-Alura/blob/main/Robo.png" width=115>
