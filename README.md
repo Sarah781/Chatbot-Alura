@@ -3,6 +3,7 @@
 # Sumário <br id="topo">
 - [Objetivo](#objetivo)
 - [Instalações](#instalações)
+- [Demonstração](#demonstração)
 - [Tecnologias](#tecnologias)
 
 
@@ -22,11 +23,20 @@ pip install -q -U google-generativeai
 
 ### Para rodar: 
 ```sh 
-streamlit run chat.py
+streamlit run main.py
 ```
 
+# 🎥 Demonstração:
+
+
 # 👩🏽‍💻 Tecnologias:
-[![](https://img.shields.io/badge/%20-Python-3b7099?style=for-the-badge&logo=python&logoColor=f8d558)](https://www.python.org/) 
+- Para o código:
+- [![](https://img.shields.io/badge/%20-Python-3b7099?style=for-the-badge&logo=python&logoColor=f8d558)](https://www.python.org/)
+
+<br>
+
+- Para a gravação:
+- [![](https://img.shields.io/badge/%20-OBS_Studio-000000?style=for-the-badge&logo=obs&logoColor=white)](https://obsproject.com/pt-br/download)
 
 <br>
 
