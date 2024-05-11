@@ -11,7 +11,7 @@
 O objetivo do Enigma com IA é oferecer aos usuários uma experiência divertida e desafiadora, onde eles podem testar suas habilidades de resolução de problemas e raciocínio lógico. O chatbot gera variedades de enigmas intrigantes e estimulantes, proporcionando aos usuários a oportunidade de exercitar suas mentes enquanto se divertem.
 
 
-# Instalações:
+# 🛠️ Instalações:
 ```sh
 pip install streamlit -U
 ```
@@ -25,7 +25,7 @@ pip install -q -U google-generativeai
 streamlit run chat.py
 ```
 
-# Tecnologias:
+# 👩🏽‍💻 Tecnologias:
 [![](https://img.shields.io/badge/%20-Python-3b7099?style=for-the-badge&logo=python&logoColor=f8d558)](https://www.python.org/) 
 
 <br>
