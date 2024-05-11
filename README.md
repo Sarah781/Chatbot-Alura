@@ -1,14 +1,15 @@
 # Enigma com AI
 
-> *pip install streamlit -U*
-
+### Instalações
+```sh
+pip install streamlit -U
+```
+```sh
+pip install -q -U google-generativeai
+```
 <br>
 
-> *pip install -q -U google-generativeai*
-
-<br>
-
-### para rodar: 
+### Para rodar: 
 ```sh 
 streamlit run chat.py
 ```
